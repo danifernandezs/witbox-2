@@ -1,0 +1,7 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+SW1        Endstop_THT_RA     326.772mil    314.173mil    326.772mil    114.173mil    326.772mil    514.173mil  T         90.00 AH1862619      
+J1         1x3_MTE_Angled_Header_2.54mm    866.142mil    314.961mil    866.142mil    214.961mil    866.142mil    214.961mil  T         90.00 1x3 MTE Angled Header 2.54mm
+LD1        LED0603            551.181mil    314.961mil    551.181mil    314.961mil    582.677mil    314.961mil  T        270.00 Red            
+R1         R0603              669.291mil    314.961mil    669.291mil    314.961mil    642.716mil    314.961mil  T          0.00 Resistor       
+
